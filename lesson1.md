@@ -57,6 +57,13 @@ commit (การเปลี่ยนแปลง)
 - `git add <file1> <file2>`
 - `git add .` (เพิ่มทุกไฟล์)
 
+### remove
+`git rm`
+ลบไฟล์ออกจาก staging area
+
+- `git rm <file>`
+- `git rm <file1> <file2>`
+
 ### commit
 `git commit -m "comment"`
 สร้าง commit (checkpoint)
