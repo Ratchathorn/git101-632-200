@@ -1,5 +1,1 @@
-#include <stdio.h>
-
-void main() {
-    printf("Hello git");
-}
+Hello git
