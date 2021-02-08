@@ -1,1 +1,1 @@
-This is new-1.txt
+This is new-1.txt but I changed it so that it conflicts with the old one in GitHub.
