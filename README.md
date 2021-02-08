@@ -22,6 +22,7 @@ room temperature iq man
 
 ## Lesson 2 (ย่อ)
 [Lesson 2 Full](https://github.com/Ratchathorn/git101-632-200/blob/main/lesson2.md)
+- Branch - การสร้างแยกออกมาจากตัวโปรแกรมหลัก เหมือนที่ว่าโปรแกรมปกติดี แต่ต้องการเพิ่ม feature เพิ่ม
 - `git branch` ดู branch ทั้งหมด
 - `git branch <name>` สร้าง branch
 - `git branch -b <name>` สร้าง branch แล้วเข้าไปใน branch นั้น ๆ
