@@ -1,2 +1,3 @@
 This is a book
-This is a main book
+This is an updated book to resolve conflict
+
