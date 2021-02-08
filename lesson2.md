@@ -18,7 +18,7 @@
 
 `git add <file>` -> `git commit -m "comment"`
 
-## push branch ขึ้น github
+### push branch ขึ้น github
 `git checkout <branch>` -> `git push origin <branch>`
 
 `git checkout <branch1>`
